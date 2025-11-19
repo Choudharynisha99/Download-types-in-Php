@@ -13,6 +13,7 @@
    <button>
     <a href="download-ppt.php" style="text-decoration:none">Download PPT</a>
 </button> -->
+<h1>Download PPT</h1>
 <form action="ppt-download.php" method="post" enctype="multipart/form-data">
     <input type="file" name="images[]" multiple >
     <br>
