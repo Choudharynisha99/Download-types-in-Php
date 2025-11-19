@@ -1,6 +1,5 @@
 <?php
 require_once 'vendor/autoload.php';
-
 use PhpOffice\PhpPresentation\PhpPresentation;
 use PhpOffice\PhpPresentation\IOFactory;
 
